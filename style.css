@@ -1,0 +1,16 @@
+.col-md-7.centrado {
+    margin-left: auto;
+    margin-right: auto;
+  }
+    .mibtn {
+      margin-top: 40px;
+    }
+    .miform {
+      margin-top: 30px;
+    }
+    .alineado {
+      align-items: center !important;
+    }
+    .swal-text {
+      text-align: center !important;
+    }

@@ -1,0 +1,6 @@
+Pasos para poder instalar el aplicativo.
+
+1 - Se debe crear un nuevo proyecto ya sea en servidor local o en un hosting con el nombre que se estime conveniente.
+2 - Una vez creado el proyecto se deben copiar los archivos php dentro de este.
+3 - Teniendo completados los pasos 1 y 2 se debe ir a PHPMYADMIN ya sea en su servidor local o en su hosting e importar el archivo SQL llamado desis, de esta manera usted podrá importar la respectiva base de datos. 
+4 - Completado los pasos anteriores ya solo queda probar la aplicación.
